@@ -56,7 +56,7 @@ Ahora que has creado tu archivo y su estructura básica, ya es hora de comenzar 
 Aquí te pones manos a la obra por tu cuenta, pero vamos a dejarte unos TIPs para continuar:
 
 + Recuerda establecer la estructura de bloques (header, main, section, footer, etc.)
-+ Recuerda tomar nota y tener siempre a mano cuáles son los atributos de cada etiqueta, por ejemplo, el atributo **“src”** de la etiqueta **img**.
++ Recuerda tomar nota y tener siempre a mano cuáles son los atributos  de cada etiqueta, por ejemplo, el atributo **“src”** de la etiqueta **img**.
 + Dado que aún no vamos a agregarle estilos a nuestra página, si quieres ayudarte para demarcar secciones puedes aprovechar la etiqueta `<hr />`
 + Intenta utilizar los elementos correspondientes en cada caso:
 
